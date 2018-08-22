@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<dimen name="text_size12">12sp</dimen>
+	<dimen name="text_size15">15sp</dimen>
+	<dimen name="text_size18">18sp</dimen>
+	<dimen name="text_size20">20sp</dimen>
+	<dimen name="text_size23">23sp</dimen>
+	<dimen name="text_size25">25sp</dimen>
+	<dimen name="text_size45">35sp</dimen>
+	<dimen name="picture_size">20sp</dimen>
+
+	<dimen name="sw_big_header_size">30sp</dimen>
+	<dimen name="sw_small_header_size">20sp</dimen>
+	<dimen name="sw_text_size_30">22sp</dimen>
+	<dimen name="sw_text_size_25">16sp</dimen>
+	<dimen name="sw_text_size_20">16sp</dimen>
+	<dimen name="sw_text_size_18">16sp</dimen>
+	<dimen name="sw_text_size_15">13sp</dimen>
+	<dimen name="sw_text_size_16">16sp</dimen>
+	<dimen name="sw_settings_header">17sp</dimen>
+	<dimen name="sw_settings_item">12sp</dimen>
+	<dimen name="sw_step123size">20sp</dimen>
+
+	<dimen name="sw_secondpage_margin">25dp</dimen>
+	<dimen name="sw_margin_top_20">10dp</dimen>
+	<dimen name="sw_margin_top_10">5dp</dimen>
+	<dimen name="sw_margin_top_pageone_20">15dp</dimen>
+	<dimen name="sw_margin_top_left_right">35dp</dimen>
+	<dimen name="sw_fifth_socialmedia_pading">10dp</dimen>
+
+	<!--Main activity-->
+	<dimen name="activity_linear_padding">12dp</dimen>
+	<dimen name="resources_frame_padding">12dp</dimen>
+	<dimen name="resources_frame_margin">140dp</dimen>
+	<dimen name="activity_top_font_size">10sp</dimen>
+	<dimen name="avaz_button_width">75dp</dimen>
+	<dimen name="avaz_button_height">75dp</dimen>
+	<dimen name="avaz_button_font_size">10sp</dimen>
+	<dimen name="avaz_button_text_radius">28dp</dimen>
+	<dimen name="horizontal_offset">102dp</dimen>
+	<dimen name="activity_top_radius">5dp</dimen>
+	<dimen name="default_margin">8dp</dimen>
+	<dimen name="small_padding">4dp</dimen>
+	<dimen name="small_margin">4dp</dimen>
+	<dimen name="default_padding">8dp</dimen>
+	<dimen name="padding_extra">16dp</dimen>
+	<dimen name="margin_extra">16dp</dimen>
+    <dimen name="large_margin">32dp</dimen>
+	<dimen name="tab_button_height">35dp</dimen>
+
+	<!--Resources-->
+	<dimen name="round_radius">20dp</dimen>
+	<dimen name="default_radius">8dp</dimen>
+	<dimen name="button_width">150dp</dimen>
+	<dimen name="button_margin">5dp</dimen>
+	<dimen name="button_font_size">22sp</dimen>
+
+	<!--Tips-->
+	<dimen name="tip_font_size">16sp</dimen>
+	<dimen name="tip_item_height">80dp</dimen>
+	<dimen name="tip_num_margin">10dp</dimen>
+	<dimen name="tip_padding">5dp</dimen>
+	<dimen name="num_height">33dp</dimen>
+	<dimen name="num_width">33dp</dimen>
+
+	<!--Help-->
+	<dimen name="vid_title_margin">8dp</dimen>
+	<dimen name="vid_img_width">150dp</dimen>
+	<dimen name="vid_img_height">115dp</dimen>
+	<dimen name="help_btn_width">180dp</dimen>
+	<dimen name="help_btn_height">30dp</dimen>
+	<dimen name="help_btn_margin">16dp</dimen>
+	<dimen name="help_btn_font_size">12sp</dimen>
+
+	<!--Research-->
+	<dimen name="research_link_margin">90dp</dimen>
+
+	<!--item size-->
+	<dimen name="activity_item_size">170dp</dimen>
+	<dimen name="round_image">40dp</dimen>
+
+	<!--font size-->
+	<dimen name="font_size">10sp</dimen>
+	<dimen name="activity_button_font_size">9sp</dimen>
+	<dimen name="sentence_font_size">8sp</dimen>
+
+	<!--padding and margin-->
+	<dimen name="padding_1dp">2dp</dimen>
+	<dimen name="margin_1dp">2dp</dimen>
+
+	<dimen name="margin_exact_1dp">0dp</dimen>
+	<dimen name="padding_star">4dp</dimen>
+	<dimen name="margin_0dp">0dp</dimen>
+
+	<!--Practice Now-->
+	<dimen name="margin_24dp">24dp</dimen>
+	<dimen name="margin_32dp">32dp</dimen>
+
+	<dimen name="round_20dp">20dp</dimen>
+	<dimen name="padding_10dp">10dp</dimen>
+	<dimen name="practice_sentence_text_font_size">10sp</dimen>
+	<dimen name="font_size_20sp">20sp</dimen>
+	<dimen name="font_size_14sp">14sp</dimen>
+	<dimen name="font_size_12sp">12sp</dimen>
+	<dimen name="font_size_10sp">10sp</dimen>
+	<dimen name="font_size_9sp">9sp</dimen>
+	<dimen name="font_size_8sp">8sp</dimen>
+	<dimen name="font_size_7sp">7sp</dimen>
+	<dimen name="font_size_6sp">6sp</dimen>
+
+	<dimen name="radius_10dp">10dp</dimen>
+	<dimen name="width_20dp">20dp</dimen>
+	<dimen name="height_10dp">10dp</dimen>
+	<dimen name="height_5dp">5dp</dimen>
+	<dimen name="width_10dp">10dp</dimen>
+	<dimen name="height_15dp">15dp</dimen>
+	<dimen name="width_30dp">30dp</dimen>
+
+	<dimen name="margin_12dp">12dp</dimen>
+
+	<!--MySentences-->
+	<dimen name="width_15dp">15dp</dimen>
+
+	<dimen name="icon_width_15dp">15dp</dimen>
+	<dimen name="icon_height_15dp">15dp</dimen>
+	<dimen name="padding_6dp">6dp</dimen>
+	<dimen name="radius_3dp">3dp</dimen>
+	<dimen name="height_20dp">20dp</dimen>
+	<dimen name="font_size_16sp">16sp</dimen>
+
+	<dimen name="sentence_text_font_size_9sp">9sp</dimen>
+	<dimen name="sentence_button_font_size_9sp">9sp</dimen>
+	<dimen name="padding_3dp">3dp</dimen>
+
+	<dimen name="show_path_textview_size">100dp</dimen>
+	<dimen name="show_path_item_size">40dp</dimen>
+	<dimen name="show_path_arrow_size">10dp</dimen>
+
+	<!--matchparent(-1)wrapcontent(-2)-->
+	<dimen name="custom_wrap_content">-2px</dimen>
+	<dimen name="custom_match_parent">-1px</dimen>
+
+
+    <!--Tip dialog-->
+    <dimen name="tip_dialog_bg_pad">5dp</dimen>
+
+    <!--Avaz settings-->
+    <dimen name="avaz_settings_font_size">12dp</dimen>
+
+
+    <!--Subscribe options-->
+	<dimen name="subscribe_text_size">16sp</dimen>
+    <dimen name="subscribe_images_height">30dp</dimen>
+    <dimen name="choose_your_plan_text_size">20sp</dimen>
+    <dimen name="price_text_size">23sp</dimen>
+
+	<!--Picture screen-->
+	<dimen name="picture_screen_font_size">@dimen/text_size12</dimen>
+
+	<!--Change Image-->
+    <dimen name="image_button_dimen">28dp</dimen>
+	<dimen name="image_button_dimen_small">22dp</dimen>
+
+	<!--Vector images-->
+	<dimen name="vec_image_height">30dp</dimen>
+	<dimen name="vec_image_width">15dp</dimen>
+
+	<!--Status bar-->
+	<dimen name="subsciption_status_font_size">8sp</dimen>
+
+	<!--Analytics fragment-->
+	<dimen name="date_font_size">@dimen/font_size_14sp</dimen>
+</resources>

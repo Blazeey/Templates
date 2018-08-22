@@ -1,0 +1,17 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/custom_date_picker_root"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="5dp"
+    android:background="#909090">
+
+    <DatePicker
+        android:id="@+id/date_picker"
+        android:theme="@style/datepicker"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:datePickerMode="calendar"
+        android:background="#ffffff"/>
+
+</LinearLayout>
